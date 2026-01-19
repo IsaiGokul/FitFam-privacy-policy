@@ -60,12 +60,40 @@ View and update their personal information
 
 Request deletion of their account and associated data
 
+Delete Account Request
+
+Users of FitFam can request permanent deletion of their
+account and associated personal data at any time.
+
+What data will be deleted:
+- Name
+- Email address
+- Password
+- Date of birth
+- Marital status
+- Height
+- Weight
+
+How to request deletion:
+1. Send an email to: admin@akbarfitfam.co.in
+2. Use subject line: "Delete My Account"
+3. Include the registered email address
+4. Mail needs to be sent from registered email account for deletion request
+
+Deletion timeline:
+- Account and data will be permanently deleted within 7 working days
+- Once deleted, data cannot be recovered
+
+If you have any questions, contact us at:
+📧 admin@akbarfitfam.co.in
+
+
 To request data deletion, contact us at:
 📧 admin@akbarfitfam.co.in
 
 📌 Children’s Privacy
 
-This app is not intended for children under 13.
+This app is not intended for children under 18.
 We do not knowingly collect personal information from children.
 
 📌 Changes to This Policy
